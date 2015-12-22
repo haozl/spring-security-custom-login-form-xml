@@ -1,6 +1,7 @@
-[![Build Status](https://travis-ci.org/haozl/spring-security-custom-login-form-xml.svg)](https://travis-ci.org/haozl/spring-security-custom-login-form-xml)
 Spring Security Custom Login Form example (Xml Config)
 ===============================
+[![Build Status](https://travis-ci.org/haozl/spring-security-custom-login-form-xml.svg)](https://travis-ci.org/haozl/spring-security-custom-login-form-xml)
+
 Example on how to configure and create a spring security custom login form with Xml configuration
 
 ### 1. Technologies used
